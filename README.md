@@ -22,8 +22,16 @@ Install dependencies
 npm install
 ```
 
+Execute SQL for the DB
+
+```bash
+query.sql
+```
+
 Start the server
 
 ```bash
 npm run start
 ```
+
+There is a postman collection with the endpoint exposed
